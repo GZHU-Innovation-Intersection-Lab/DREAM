@@ -7,12 +7,19 @@ This repository provides the peer-review-stage public data release for the manus
 ## Included in this release
 
 - `dream_initial_labels_1134.csv`
+- `DATASET_SCHEMA.md`
+- `RELEASE_NOTE.md`
 
 The file contains:
 
 - 1,134 incident records
 - six-dimensional scores: `Da`, `A`, `R`, `E`, `Di`, `M`
 - basic incident descriptors: date, title, description, risk domain, and risk subdomain
+
+Supporting documentation:
+
+- `DATASET_SCHEMA.md` describes the released columns
+- `RELEASE_NOTE.md` states the current release boundary
 
 ## Release boundary
 

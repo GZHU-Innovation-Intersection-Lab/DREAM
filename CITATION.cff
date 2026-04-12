@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite this repository and the associated DREAM manuscript."
+title: "DREAM initial labeling dataset"
+version: "0.1.0"
+date-released: 2026-04-13
+url: "https://github.com/GZHU-Innovation-Intersection-Lab/DREAM"
+repository-code: "https://github.com/GZHU-Innovation-Intersection-Lab/DREAM"
+license: MIT
+abstract: >-
+  Peer-review-stage public data release for the DREAM manuscript, containing
+  1,134 generative AI incident records and the six-dimensional incident scores
+  used as the manuscript input layer.
+authors:
+  - family-names: Qi
+    given-names: Jiayin
+    email: qijiayin@139.com
+  - family-names: Jia
+    given-names: Kun
+    email: jiakun863@gmail.com
+  - family-names: Zhang
+    given-names: Yuxin
+    email: yuxin.zhang@unipa.it
+  - family-names: Chen
+    given-names: Zetao
+    email: 2112533107@e.gzhu.edu.cn
+  - family-names: Kong
+    given-names: Weixuan
+    email: 32406400104@e.gzhu.edu.cn
+keywords:
+  - generative AI incidents
+  - risk assessment
+  - incident labeling
+  - dataset
+  - DREAM

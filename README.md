@@ -14,6 +14,7 @@ The current release contains the initial incident-level labeling table used as t
 | `DATASET_SCHEMA.md` | Column-level description of the released dataset |
 | `RELEASE_NOTE.md` | Release boundary and post-acceptance expansion note |
 | `CITATION.cff` | Machine-readable citation metadata for the repository |
+| `SHA256SUMS.txt` | SHA256 checksums for the public release files |
 
 ## Data summary
 
@@ -27,6 +28,23 @@ The released CSV contains:
 Direct download:
 
 - [dream_initial_labels_1134.csv](https://raw.githubusercontent.com/GZHU-Innovation-Intersection-Lab/DREAM/main/dream_initial_labels_1134.csv)
+
+Complete release package:
+
+- [GitHub release page](https://github.com/GZHU-Innovation-Intersection-Lab/DREAM/releases/tag/v0.1.0-peer-review)
+- [DREAM_initial_labeling_dataset_v0.1.0_peer_review.zip](https://github.com/GZHU-Innovation-Intersection-Lab/DREAM/releases/download/v0.1.0-peer-review/DREAM_initial_labeling_dataset_v0.1.0_peer_review.zip)
+
+## Integrity check
+
+The repository provides `SHA256SUMS.txt` so users can verify that the downloaded files match the public release.
+
+- [SHA256SUMS.txt](https://raw.githubusercontent.com/GZHU-Innovation-Intersection-Lab/DREAM/main/SHA256SUMS.txt)
+
+Example verification on a local machine:
+
+```bash
+sha256sum -c SHA256SUMS.txt
+```
 
 ## Release boundary
 

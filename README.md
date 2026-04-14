@@ -13,6 +13,8 @@ The current release contains the initial incident-level labeling table used as t
 | `dream_initial_labels_1134.csv` | Public release of the initial 1,134-incident labeling dataset |
 | `DATASET_SCHEMA.md` | Column-level description of the released dataset |
 | `RELEASE_NOTE.md` | Release boundary and post-acceptance expansion note |
+| `DATA_AVAILABILITY.md` | Submission-ready statement of what is released now and what will follow |
+| `CHANGELOG.md` | Versioned update record for the public data release |
 | `CITATION.cff` | Machine-readable citation metadata for the repository |
 | `SHA256SUMS.txt` | SHA256 checksums for the public release files |
 
@@ -53,6 +55,11 @@ This repository currently releases only the initial labeling table used at the m
 It does **not** yet include the full validation package, expert-panel materials, proxy-validation artifacts, or code.
 
 All remaining data products and code will be released after article acceptance.
+
+Additional release-context documents:
+
+- `DATA_AVAILABILITY.md`
+- `CHANGELOG.md`
 
 ## Citation
 

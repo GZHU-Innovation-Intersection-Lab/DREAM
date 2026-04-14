@@ -13,6 +13,9 @@ The current public release contains only the initial incident-level labeling dat
 - six-dimensional scores: `Da`, `A`, `R`, `E`, `Di`, and `M`
 - supporting documentation in `DATASET_SCHEMA.md`, `RELEASE_NOTE.md`, and `CITATION.cff`
 
+The current public dataset release is licensed under
+Creative Commons Attribution 4.0 International (`CC BY 4.0`).
+
 ## Not yet included
 
 The following materials are not part of the current public release:
@@ -25,6 +28,8 @@ The following materials are not part of the current public release:
 ## Planned post-acceptance expansion
 
 After article acceptance, the repository will be expanded to include the remaining data products and code to the extent permitted by project governance, documentation readiness, and any applicable disclosure constraints.
+
+If code is released in that later expansion, it may be distributed under a separate software license and will be marked accordingly.
 
 ## Contact
 

@@ -15,6 +15,7 @@ The current release contains the initial incident-level labeling table used as t
 | `RELEASE_NOTE.md` | Release boundary and post-acceptance expansion note |
 | `DATA_AVAILABILITY.md` | Submission-ready statement of what is released now and what will follow |
 | `CHANGELOG.md` | Versioned update record for the public data release |
+| `LICENSE` | Dataset license text for the current public release |
 | `CITATION.cff` | Machine-readable citation metadata for the repository |
 | `SHA256SUMS.txt` | SHA256 checksums for the public release files |
 
@@ -69,6 +70,15 @@ If you use this repository or dataset, please cite:
 - the associated DREAM manuscript
 
 Citation metadata are provided in `CITATION.cff`.
+
+## License
+
+The dataset materials currently released in this repository are provided under the
+[Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/).
+
+This choice is intended for the current data release. If code is added in a later
+post-acceptance expansion, code files may be marked under a separate software
+license where appropriate.
 
 ## Contact
 

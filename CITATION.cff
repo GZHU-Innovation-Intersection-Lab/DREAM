@@ -5,7 +5,7 @@ version: "0.1.0"
 date-released: 2026-04-13
 url: "https://github.com/GZHU-Innovation-Intersection-Lab/DREAM"
 repository-code: "https://github.com/GZHU-Innovation-Intersection-Lab/DREAM"
-license: MIT
+license: CC-BY-4.0
 abstract: >-
   Peer-review-stage public data release for the DREAM manuscript, containing
   1,134 generative AI incident records and the six-dimensional incident scores
